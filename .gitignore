@@ -404,3 +404,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# .xlsx files use for Tableau
+Tableau_Table*.xslx
