@@ -406,4 +406,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 # .xlsx files use for Tableau
-Tableau_Table*.xslx
+Tableau_Table*.xlsx
