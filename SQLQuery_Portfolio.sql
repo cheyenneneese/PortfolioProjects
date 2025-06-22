@@ -1,3 +1,4 @@
+--This is an example of querying data in SQL
 --View the COVID death data
 select * from ProjectPortfolio..CovidDeaths$
 where continent is not null
